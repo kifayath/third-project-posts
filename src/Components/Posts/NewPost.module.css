@@ -1,0 +1,13 @@
+.form {
+  max-width: 60%;
+  border: 5em;
+  border-radius: 2em;
+  width: 40%;
+  margin: 1rem auto;
+}
+
+.form p {
+  color: red;
+  text-align: center;
+  text-decoration: solid;
+}
